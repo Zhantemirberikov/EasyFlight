@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Светлая тема -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryVariant">#1976D2</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorOnBackground">#000000</color>
+
+    <!-- Тёмная тема -->
+    <color name="darkPrimary">#90CAF9</color>
+    <color name="darkPrimaryVariant">#42A5F5</color>
+    <color name="darkOnPrimary">#000000</color>
+    <color name="darkBackground">#121212</color>
+    <color name="darkOnBackground">#FFFFFF</color>
+
+    <!-- Акценты -->
+    <color name="colorAccent">#03DAC5</color>
+</resources>
